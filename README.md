@@ -20,7 +20,9 @@ New Singleton decorator. Just another singleton pattern implementation. Thread-s
 Just wanted to push my singleton as a library to be able to reuse it in my projects. Going to support it as well. Please do not hesitate to ask questions or make suggestions if anything.
 
 <!-- Run and configuration -->
-:gear: Install library with PyPi, import and use.
+:gear: Run and configuration
+
+Install library with PyPi, import and use.
 
 <!-- License -->
 :scroll: License
