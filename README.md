@@ -21,6 +21,7 @@ Just wanted to push my singleton as a library to be able to reuse it in my proje
 
 <!-- Run and configuration -->
 :gear: Run and configuration
+---------------
 
 Install library with PyPi, import and use.
 
